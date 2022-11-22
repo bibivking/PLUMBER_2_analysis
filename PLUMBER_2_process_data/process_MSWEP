@@ -1,0 +1,2 @@
+cdo mergetime *.nc outputfile
+cdo -outputtab,date,lon,lat,value -remapnn,"lon=151.5683_lat=-32.7427" -delname,time_weights temp.nc > output.csv

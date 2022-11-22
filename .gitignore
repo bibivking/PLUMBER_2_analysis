@@ -1,0 +1,6 @@
+*.nc
+*.o
+*.pdf
+*.png
+*.jpg
+*/plots/*
