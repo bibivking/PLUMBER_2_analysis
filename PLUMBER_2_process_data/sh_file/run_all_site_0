@@ -1,0 +1,1512 @@
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [40.38s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [39.81s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.40s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.30s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [38.22s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.73s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.03s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.72s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.22s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.62s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.66s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.54s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.03s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [40.47s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.00s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.46s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.72s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [36.46s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [42.47s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [45.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.61s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.50s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.53s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.13s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.79s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.13s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.99s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.50s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.03s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.78s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [39.48s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.27s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [37.42s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.81s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.25s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.72s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.59s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.19s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.06s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.06s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [39.10s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [35.49s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.29s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.53s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.88s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.73s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.16s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.36s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [41.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [41.51s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.82s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.61s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [38.98s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.99s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.41s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.44s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [39.18s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.97s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.95s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.99s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.96s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.69s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.70s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.18s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [32.02s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.21s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.33s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.90s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.86s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.28s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.05s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.08s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.62s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.58s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.57s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.56s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [32.74s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.92s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.81s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.76s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.94s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [33.59s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.72s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.13s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [38.59s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.32s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.30s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.99s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.45s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.19s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.61s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.48s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [42.86s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.54s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [38.42s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.95s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.44s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.32s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [40.59s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.19s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.66s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.45s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.66s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.97s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.75s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.10s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.45s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.97s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.92s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.56s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.26s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.96s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.39s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.51s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.23s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.37s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.30s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.88s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [37.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [37.52s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.94s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [43.94s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.67s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [39.45s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.52s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.88s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.71s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.77s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.69s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.39s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.17s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.47s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.44s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.26s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.69s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.77s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.35s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.13s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.28s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.92s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.77s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.38s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.85s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.61s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.12s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.07s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.75s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.42s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.84s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.95s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.95s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.81s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.40s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.84s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.38s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.16s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.37s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [40.36s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [44.79s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.53s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.57s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.53s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [32.78s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.64s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.26s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.30s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [36.23s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.13s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.48s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.39s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.24s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.79s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.99s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.29s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.97s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.61s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.36s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.39s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.69s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.51s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.66s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.28s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.73s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.73s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.03s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.46s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.90s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [39.44s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.91s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.48s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.92s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.66s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.51s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.64s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [34.97s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.51s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.32s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.38s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.85s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.38s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.49s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.94s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.68s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [39.77s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.50s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.12s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [43.77s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [43.57s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.49s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.84s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.64s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.54s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.34s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.39s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.78s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [39.69s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.41s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [39.81s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [39.92s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [42.83s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.60s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [42.89s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [40.36s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.53s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.04s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.23s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.83s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.07s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.97s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.50s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.53s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.21s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.86s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.84s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.58s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [32.21s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.19s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.25s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.26s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.84s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.36s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.67s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.14s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.93s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.57s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.60s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.75s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [39.90s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.09s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.60s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.30s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.83s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.63s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.87s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.60s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [40.40s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [37.06s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.60s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.45s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.25s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.48s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [39.78s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.24s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.55s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.00s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.34s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.17s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.56s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.05s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.29s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [38.36s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.58s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [35.49s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.52s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [35.19s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.48s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [32.97s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.56s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.78s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.29s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.22s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.55s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [34.95s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.91s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.51s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.66s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.70s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.80s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.62s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.23s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [38.06s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.79s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.81s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.19s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [33.95s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.59s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.52s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.00s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [28.68s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.55s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.33s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.37s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.04s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.13s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.04s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.65s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [37.72s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.96s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.93s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.79s 204MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.96s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [29.58s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.77s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.73s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.91s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.43s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.25s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.00s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.74s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.66s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.88s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.01s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.40s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [29.72s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.99s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.10s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.67s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [32.64s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.89s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.11s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.29s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [30.69s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.36s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.83s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.00s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.21s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.07s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [33.33s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [31.10s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [32.07s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.03s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [34.93s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.82s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [31.49s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.15s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [36.51s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [28.76s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [35.30s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [29.82s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.54s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [32.01s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2365200000 values from 1 variable over 365 timesteps
+cdo outputtab: Processed 365 values from 1 variable over 365 timesteps [30.18s 202MB]

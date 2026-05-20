@@ -1,0 +1,10 @@
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2358720000 values from 1 variable over 364 timesteps
+cdo outputtab: Processed 364 values from 1 variable over 364 timesteps [33.52s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
+cdo(2) remapnn: Processed 2371680000 values from 1 variable over 366 timesteps
+cdo outputtab: Processed 366 values from 1 variable over 366 timesteps [43.34s 202MB]
+cdo(2) remapnn: Process started
+cdo(2) remapnn: Nearest neighbor weights from lonlat (3600x1800) to lonlat (1x1) grid
